@@ -341,9 +341,25 @@ span{
     }
     .banner{
         flex-direction: column-reverse;
+        margin-left: 12px;
     }
     .banner-img{
-        width: 393px;
-        height: 245px;
+        width: 417px;
+        height: auto;
     }
+    .banner h2{
+        width: 361px;
+        height: auto;
+    }
+    .banner-head{
+        font-size: 24px;
+    }
+    .all-card{
+        height: 1186px;
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .box{
+        width: 430px;
+    }
+    
 }
