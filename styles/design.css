@@ -355,11 +355,20 @@ span{
         font-size: 24px;
     }
     .all-card{
-        height: 1186px;
+        /* display: grid; */
         grid-template-columns: repeat(2, 1fr);
+        gap: 130px 25px;
+        margin-left: 15px;
+        margin-right: 15px;
     }
-    .box{
-        width: 430px;
+    .card{
+        width: 171px;
+        height: 340px;
     }
+    .card img{
+        width: 200px;
+        height: 245px;
+    }
+           
     
 }
