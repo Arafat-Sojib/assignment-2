@@ -59,6 +59,9 @@ ul a, nav li{
     height: 24px;
     padding-right: 10px;
 }
+.card-name{
+    color: #000000;
+}
 
 /* Banner-section */
 
