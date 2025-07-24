@@ -359,6 +359,7 @@ span{
     }
     .plant-text{
         font-size: 24px;
+        margin-top: -60px;
     }
     .banner-text br, .deal p br{
         display: none;
@@ -416,6 +417,33 @@ span{
     .alltext-bg{
         flex-direction: column;
     }
-           
+    .text1-bg, .text2-bg{
+        margin: auto;
+    }   
+    .text3-bg{
+        width: 367px;
+        height: 201px;
+        margin: auto;
+        border-radius: 14px;
+        margin-top: 22px;
+    }
+    .text3-bg h3{
+        font-size: 1.25rem;
+        font-weight: 700;
+        padding: 35px 30px 20px;
+    } 
+    .text3-bg h4{
+        margin-top: 10px;
+    }
+    .text3-bg h4 a{
+        font-size: 1rem;
+        font-weight: 500;
+    }
+    .bottom-bg{
+        margin-top: 600px;
+        margin: auto;
+        width: 600px;
+        height: auto;
+    }
     
 }
