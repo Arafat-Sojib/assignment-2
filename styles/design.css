@@ -331,3 +331,19 @@ span{
 .x{
     margin-bottom: 7px;
 }
+
+
+/* Responsive-for-Mobile */
+
+@media screen and (max-width: 576px) {
+    .home, .home2{
+        display: none;
+    }
+    .banner{
+        flex-direction: column-reverse;
+    }
+    .banner-img{
+        width: 393px;
+        height: 245px;
+    }
+}
