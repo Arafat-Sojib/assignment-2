@@ -195,21 +195,21 @@ span{
     justify-content: space-between;
 }
 .text1-bg{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.4)),url('/B12A02-Responsive-Flowers/assets/deal-bloom.png');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4)),url('B12A02-Responsive-Flowers/assets/deal-bloom.png');
     width: 367px;
     height: 201px;
     justify-items: center;
     border-radius: 14px;
 }
 .text2-bg{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.4)),url('/B12A02-Responsive-Flowers/assets/deal-ana.png');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4)),url('B12A02-Responsive-Flowers/assets/deal-ana.png');
     width: 367px;
     height: 197px;
     justify-items: center;
     border-radius: 14px;
 }
 .text3-bg{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.4)),url('/B12A02-Responsive-Flowers/assets/deal-zabo.png');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4)),url('B12A02-Responsive-Flowers/assets/deal-zabo.png');
     width: 753px;
     height: 423px;
     justify-items: center;
@@ -261,7 +261,7 @@ span{
 /* Bottom-section */
 
 .bottom-bg{
-    background-image: url('/B12A02-Responsive-Flowers/assets/news-letter-bg.png');
+    background-image: url('B12A02-Responsive-Flowers/assets/news-letter-bg.png');
     margin-left: -148px;
     width: 1440px;
     height: 533px;
